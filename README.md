@@ -1,7 +1,8 @@
 # Learning-path
-**how to an engineer of machine learning algoorithm.**
+**How to become an engineer of machine learning algoorithm.**
 
-## 1. basic knowledge
+## 1. Basic knowledge
+
 ### 1.1 Tools
 - linux
 - git/github
@@ -13,12 +14,20 @@
 - matplotlib
 - numba
 
-## 2. intermediate
+## 2. Intermediate
+
 ### 2.1 Modules
 - opencv
 - scikit-learning
 - pytorch
 - tensorflow
-### 2.2 books
+
+### 2.2 Books
 - Machine learning (Zhihua Zhou)
 - Deep learning (Ian Goodfellow)
+
+## 3. Advanced
+
+### 3.1 object detection
+
+### 3.2 something else
