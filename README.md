@@ -13,11 +13,11 @@
 - Pandas
 - Matplotlib
 - Numba
+- Opencv
 
 ## 2. Intermediate
 
 ### 2.1 Modules
-- Opencv
 - Scikit-learning
 - Pytorch
 - Tensorflow
