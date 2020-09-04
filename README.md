@@ -4,23 +4,23 @@
 ## 1. Basic knowledge
 
 ### 1.1 Tools
-- linux
-- git/github
-- vim (optional)
+- Linux
+- Git/Github
+- Vim (optional)
 
 ### 1.2 Modules
-- numpy/cupy
-- pandas
-- matplotlib
-- numba
+- Numpy/Cupy
+- Pandas
+- Matplotlib
+- Numba
 
 ## 2. Intermediate
 
 ### 2.1 Modules
-- opencv
-- scikit-learning
-- pytorch
-- tensorflow
+- Opencv
+- Scikit-learning
+- Pytorch
+- Tensorflow
 
 ### 2.2 Books
 - Machine learning (Zhihua Zhou)
@@ -28,6 +28,8 @@
 
 ## 3. Advanced
 
-### 3.1 object detection
+### 3.1 Object detection (traditional)
 
-### 3.2 something else
+### 3.2 Object detection (AI)
+
+### 3.2 Something else
