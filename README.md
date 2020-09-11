@@ -1,7 +1,7 @@
-# Learning-path
-**How to become an engineer of machine learning algoorithm.**
+# 路线图
+**如何成为一名机器学习算法工程师**
 
-## 1. Basic knowledge
+## 1. 基础知识
 
 ### 1.1 Tools
 - Linux
@@ -15,7 +15,7 @@
 - Numba
 - Opencv
 
-## 2. Intermediate
+## 2. 中级知识
 
 ### 2.1 Modules
 - Scikit-learning
@@ -26,7 +26,7 @@
 - Machine learning (Zhihua Zhou)
 - Deep learning (Ian Goodfellow)
 
-## 3. Advanced
+## 3. 高级知识
 
 ### 3.1 Object detection (traditional)
 
