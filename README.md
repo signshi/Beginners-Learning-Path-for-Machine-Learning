@@ -1,5 +1,5 @@
 # 路线图
-**如何成为一名机器学习算法工程师**
+**如何成为一名计算机视觉算法工程师**
 
 ## 1. 基础知识
 
@@ -14,6 +14,11 @@
 - Matplotlib
 - Numba
 - Opencv
+
+### 1.3 Language
+- Python
+- Data structure and Algorithms
+- Leetcode
 
 ## 2. 中级知识
 
