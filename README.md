@@ -18,6 +18,7 @@
 ### 1.3 Language
 - Python
 - Data structure and Algorithms
+  - Python数据结构与算法分析
 - Leetcode
 
 ## 2. 中级知识
